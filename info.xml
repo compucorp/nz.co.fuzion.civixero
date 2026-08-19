@@ -16,7 +16,7 @@
     <author>eileen</author>
     <email>eileen@fuzion.co.nz</email>
   </maintainer>
-  <releaseDate>2025-05-06</releaseDate>
+  <releaseDate>2026-08-19</releaseDate>
   <version>3.0.2</version>
   <develStage>stable</develStage>
   <compatibility>
@@ -31,7 +31,7 @@
     <ver>8.3</ver>
     <ver>8.4</ver>
   </php_compatibility>
-  <comments>This module requires nz.co.fuzion.accountsync</comments>
+  <comments>Patch 1</comments>
   <classloader>
     <psr0 prefix="CRM_" path="."/>
     <psr4 prefix="Civi\" path="Civi"/>
